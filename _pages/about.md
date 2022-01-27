@@ -1,32 +1,19 @@
 ---
 title: About me
-subtitle: Personal is the perfect theme for developers, designers and other creatives.
+subtitle: Principal Consultant | Azure Cloud Architect & Developer
 description: Personal is the perfect theme for developers, designers and other creatives.
-featured_image: /images/demo/about.jpg
+featured_image: /images/hero/retro6.jpg
 ---
 
-## Features
+# Chris Fulstow
 
-We've packed Personal full of powerful features to help showcase your work:
+Microsoft certified Azure cloud specialist with technical hands-on capabilities to deliver cloud-native applications, automation, infrastructure and devops for enterprise organisations.
 
-* Beautiful, minimal design
-* Large header image and single column post layout
-* Responsive – works perfectly on all devices
-* Portfolio post type
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
+I help Australia's most successful organisations deliver cloud applications and infrastructure into production quickly and confidently with expert .NET, Azure and DevOps consulting. With over 20 years' industry experience, I bring unparalleled expertise across the Microsoft ecosystem as well as a range of complementary web, data and cloud technologies.
 
-## Get Personal
-
-Personal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
-
-<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a>
+## Professional Qualifications
+* Microsoft Specialist: Developing Azure Solutions
+* Microsoft Specialist: Architecting Azure Solutions
+* Microsoft Specialist: Implementing Azure Infrastructure
+* AWS Certified Solutions Architect – Associate
+* MCSD, MCPD, MCTS: .NET Application Development

@@ -10,17 +10,17 @@ featured_image: '/images/post/lambda.jpg'
 
 If you're a cross-platform developer working across both Windows and Linux then you need the **Windows Subsystem for Linux**. Known as WSL and pronounced *whizzle*, it's an easy way to install and run a Linux dev environment inside Windows 11, giving you all your favourite Linux things without the hassle of setting up a virtual machine or dual-booting.
 
-For me, I build continuous integration and deployment pipelines in Azure DevOps and GitHub Actions, sometimes automating steps with bash scripts. These scripts are hard to write and test in Windows. Before, I'd have to push changes, publish the pipeline, run it remotely, then repeat ad nauseam. Slow going for a shell script edit-run-test cycle. No such problem with WSL, I can quickly run and test bash scripts locally, without the fuss. But that's not all you can do with WSL.
+For me, I like to build continuous integration and deployment pipelines in Azure DevOps and GitHub Actions, sometimes automating steps with bash scripts. But these scripts are tricky to write and test in Windows. Before, I'd have to push changes, publish the pipeline, run it remotely, then repeat ad nauseam. Slow going for a shell script edit-run-test cycle. No such problem with WSL, I can quickly run and test bash scripts locally, without the fuss. But that's not all you can do with WSL.
 
 ## What else can WSL do?
 
-If you're a nostalgic Unix-beard hacker, who loves contorting fingers and memorising impossible key combinations, you can use your old favourite Linux text editors like Vim or Emacs or Nano. Or run strangely acronymed Linux stacks like LAMP (Linux, Apache, MySQL, PHP/Perl/Python) or MEAN (MongoDB, ExpressJS, Angular, Node.js). Or run and troubleshoot and fix a broken Kubernetes cluster. Or use Linux's command-line tools and utilities, like grep or sed or awk, because no matter how powerful PowerShell is, it rarely makes the easy things easy.
+If you're a nostalgic Unix-beard hacker, who loves contorting fingers and memorising impossible key combinations, you can use your old favourite Linux text editors like Vim or Emacs or Nano. Or run mysteriously acronymed Linux stacks like LAMP (Linux, Apache, MySQL, PHP/Perl/Python) or MEAN (MongoDB, Express, Angular, Node.js). Or troubleshoot and fix broken Kubernetes clusters. Or use Linux's command-line tools and utilities, like grep or sed or awk, because no matter how powerful PowerShell is, it rarely makes the easy things easy enough.
 
-You can do some of this stuff directly on Windows. But running natively inside Linux on Windows is a nicer, more authentic experience. You can, of course, also do it on a Linux VM, but WSL is so much easier to set up, more lightweight, and uses fewer resources. And most importantly, WSL is just cool.
+You can, of course, now run some of these things directly on Windows. But that's like drinking wine from a coffee mug, it's wrong and makes you look desperate. Running natively inside Linux on Windows is a sophisticated, authentic experience. You could also run a Linux VM, but WSL is so much easier to set up, more lightweight, and uses fewer resources. And most importantly, WSL is mighty good fun.
 
 ## How does WSL work?
 
-No idea. Some sort of Linux kernel virtualisation magic thing running inside an optimised cut-down Hyper-V compatibility layer that runs native Linux ELF64 binary executables on Windows? Something like that. Probably.
+No idea. Some sort of Linux kernel virtualisation magic running inside an optimised cut-down Hyper-V compatibility layer that runs native Linux ELF64 binary executables on Windows? Something like that. Probably.
 
 ## How to install WSL on Windows 11?
 
@@ -83,7 +83,7 @@ Enter new UNIX username:
 
 ## Update and upgrade WSL
 
-Now we're almost there. Last thing to do is install all the latest and greatest bug fixes and security patches. First update the Linux kernel from Windows using `wsl.exe`:
+Now we're almost there. Last thing to do is install all the latest greatest bug fixes and security patches. First update the Linux kernel from Windows using `wsl.exe`:
 
 ```
 PS C:\Users\chris> wsl --update

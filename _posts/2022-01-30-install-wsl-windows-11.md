@@ -1,5 +1,5 @@
 ---
-title: How to install WSL on Windows 11
+title: How to install WSL2 on Windows 11
 description: Microsoft loves Linux
 featured_image: '/images/hero/penguin.jpg'
 ---

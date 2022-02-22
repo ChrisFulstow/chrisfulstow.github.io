@@ -1,6 +1,6 @@
 ---
 title: About me
-subtitle: Principal Consultant | Angular - Azure - .NET
+subtitle: Principal Consultant in Angular, Azure and .NET
 description: Personal is the perfect theme for developers, designers and other creatives.
 featured_image: /images/hero/retro6.jpg
 ---

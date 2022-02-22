@@ -1,15 +1,15 @@
 ---
 layout: home
-title: Azure Solution Architect
-description: Professional consulting for .NET software development and Azure cloud architecture
+title: Angular | Azure | .NET
+description: Professional consulting for Angular and .NET software development
 featured_image: /images/hero/retro1.jpg
 ---
 
 # Services
 
 ## Application Development
-* .NET Core, C#, Node.js
 * Front-end, Angular, TypeScript, HTML5
+* .NET Core, C#, Node.js
 
 ## DevOps
 * Infracode: Pulumi, Terraform, ARM templates
